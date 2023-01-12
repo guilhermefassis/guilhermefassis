@@ -1,6 +1,6 @@
 ## Welcome! I'm Guilherme 😊
 
- - 🏢 I'm currently work with backend
+ - 🏢 I'm currently work with API's Life Cycle
  - 📖 Studing Cloud Computing
  
  ##
